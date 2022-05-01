@@ -1,4 +1,4 @@
-# PJ-of-Data-Structure
+# PJ of Data Structure
 # 复旦大学大二上（2021年冬）数据结构大作业报告
 ## ——VIM编辑器青春版
 #### 1. 需求分析
